@@ -1,0 +1,20 @@
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\bin\Debug\Average Form.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\bin\Debug\Average Form.exe
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\bin\Debug\Average Form.pdb
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average Form.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average_Form.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average_Form.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average Form.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average Form.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average Form.exe
+D:\BIT\1st year\1st semester\visual application programing\Average Form\Average Form\obj\Debug\Average Form.pdb
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\bin\Debug\Average Form.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\bin\Debug\Average Form.exe
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\bin\Debug\Average Form.pdb
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average Form.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average_Form.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average_Form.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average Form.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average Form.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average Form.exe
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Average Form\Average Form\obj\Debug\Average Form.pdb
